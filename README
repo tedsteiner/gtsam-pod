@@ -1,0 +1,18 @@
+
+This software is constructed according to the Pods software policies and
+templates.  The policies and templates can be found at:
+
+  http://sourceforge.net/projects/pods
+
+====
+
+Name:         gtsam-pod 
+Maintainers:  Ted Steiner
+Summary:      Pod for GTSAM Library
+Description:
+  Current version v3.1.0
+
+Requirements: 
+  Boost 1.43+
+
+License:      MIT
